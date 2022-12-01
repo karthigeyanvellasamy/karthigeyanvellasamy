@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and reading books.
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on !!
-- 📫 How to reach me ...
+- 📫 @cskarthigeyan@gmail.com
 
 <!---
 karthigeyanvellasamy/karthigeyanvellasamy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
